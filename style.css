@@ -1,6 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
+.reminder {
+	color: yellow;
+}
 
 h1 {
 	text-align: center;
